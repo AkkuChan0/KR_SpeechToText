@@ -1,0 +1,96 @@
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.exe
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.deps.json
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.runtimeconfig.json
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.pdb
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.AssemblyReference.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.Form1.resources
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.GenerateResource.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfoInputs.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfo.cs
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CoreCompileInputs.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CopyComplete
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\refint\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.pdb
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.genruntimeconfig.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\ref\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\libgcc_s_seh-1.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\libstdc++-6.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\libvosk.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Release\net6.0-windows\libwinpthread-1.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.Fody.CopyLocal.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.dll
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\refint\Kursach.dll
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.pdb
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\libgcc_s_seh-1.dll
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\libstdc++-6.dll
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\libvosk.dll
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\libwinpthread-1.dll
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.exe
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.deps.json
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.runtimeconfig.json
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.dll
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.pdb
+E:\SpeechRecognition\Kursach\Kursach\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.AssemblyReference.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.Form1.resources
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.GenerateResource.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfoInputs.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfo.cs
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CoreCompileInputs.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.Fody.CopyLocal.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CopyComplete
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.genruntimeconfig.cache
+E:\SpeechRecognition\Kursach\Kursach\obj\Release\net6.0-windows\ref\Kursach.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\libgcc_s_seh-1.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\libstdc++-6.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\libvosk.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\libwinpthread-1.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.exe
+E:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.deps.json
+E:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.runtimeconfig.json
+E:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.dll
+E:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.pdb
+E:\Kursach\Kursach\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.AssemblyReference.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.Form1.resources
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.GenerateResource.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfoInputs.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfo.cs
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CoreCompileInputs.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.Fody.CopyLocal.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CopyComplete
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.dll
+E:\Kursach\Kursach\obj\Release\net6.0-windows\refint\Kursach.dll
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.pdb
+E:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.genruntimeconfig.cache
+E:\Kursach\Kursach\obj\Release\net6.0-windows\ref\Kursach.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\libgcc_s_seh-1.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\libstdc++-6.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\libvosk.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\libwinpthread-1.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.exe
+G:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.deps.json
+G:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.runtimeconfig.json
+G:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.dll
+G:\Kursach\Kursach\bin\Release\net6.0-windows\Kursach.pdb
+G:\Kursach\Kursach\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.AssemblyReference.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.Form1.resources
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.GenerateResource.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfoInputs.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.AssemblyInfo.cs
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CoreCompileInputs.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.Fody.CopyLocal.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.csproj.CopyComplete
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.dll
+G:\Kursach\Kursach\obj\Release\net6.0-windows\refint\Kursach.dll
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.pdb
+G:\Kursach\Kursach\obj\Release\net6.0-windows\Kursach.genruntimeconfig.cache
+G:\Kursach\Kursach\obj\Release\net6.0-windows\ref\Kursach.dll

@@ -1,0 +1,48 @@
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libgcc_s_seh-1.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libstdc++-6.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libvosk.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libwinpthread-1.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.exe
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.deps.json
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.runtimeconfig.json
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.pdb
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\System.Speech.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.AssemblyReference.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.Form1.resources
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.GenerateResource.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.AssemblyInfoInputs.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.AssemblyInfo.cs
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.CoreCompileInputs.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.Fody.CopyLocal.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.CopyComplete
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\refint\Kursach.dll
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.pdb
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.genruntimeconfig.cache
+E:\c лучше питона\Технологии программирования\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\ref\Kursach.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libgcc_s_seh-1.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libstdc++-6.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libvosk.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\libwinpthread-1.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.exe
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.deps.json
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.runtimeconfig.json
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.dll
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\Kursach.pdb
+E:\Kursach\Kursach\bin\Debug\net6.0-windows\win-x64\System.Speech.dll
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.AssemblyReference.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.Form1.resources
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.GenerateResource.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.AssemblyInfoInputs.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.AssemblyInfo.cs
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.CoreCompileInputs.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.Fody.CopyLocal.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.csproj.CopyComplete
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.dll
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\refint\Kursach.dll
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.pdb
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\Kursach.genruntimeconfig.cache
+E:\Kursach\Kursach\obj\Debug\net6.0-windows\win-x64\ref\Kursach.dll

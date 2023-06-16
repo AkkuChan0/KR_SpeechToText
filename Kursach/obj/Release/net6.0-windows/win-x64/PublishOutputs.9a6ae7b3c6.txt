@@ -1,0 +1,2 @@
+E:\Kursach\Kursach\bin\Release\net6.0-windows\publish\win-x64\Kursach.pdb
+E:\Kursach\Kursach\bin\Release\net6.0-windows\publish\win-x64\Kursach.exe
